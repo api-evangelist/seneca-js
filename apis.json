@@ -1,0 +1,53 @@
+{
+    "name": "Seneca JS",
+    "description": "<p>A Micro-Services toolkit for Node.js. This toolkit lets you write clean code that you can scale without needing to refactor. Start with everything in one process, and split it all out onto multiple systems when you need to.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/seneca-logo.png",
+    "tags": [
+        "deployment",
+        "have api",
+        "microservices"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/seneca-js\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Seneca JS",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/seneca-logo.png",
+            "humanURL": "http:\/\/senecajs.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/seneca-js-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/seneca-js-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/senecajs"
+        },
+        {
+            "type": "Road Map",
+            "url": "http:\/\/senecajs.org\/roadmap.html"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/senecajs"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/senecajs.org\/"
+        }
+    ]
+}
